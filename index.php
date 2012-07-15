@@ -23,7 +23,7 @@
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 		<results>
 			<object id=\"1\">
-				<title><![CDATA[Hotel Hello World]]></title>
+				<title><![CDATA[Sunil Hello World]]></title>
 				<thumbnail><![CDATA[http://dev.junaio.com/publisherDownload/thumb_a1.png]]></thumbnail>
 				<icon><![CDATA[http://dev.junaio.com/publisherDownload/icon_a1.png]]></icon>
 				<location>
